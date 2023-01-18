@@ -52,9 +52,10 @@ type HomeData struct {
 }
 
 var siteMetadata = map[string]string{
-	"Title":  "Ngáo Coin",
-	"Domain": "ngaocoin.com",
-	"Slogan": "Ngáo không phải là tội, Ngáo là một loại bệnh",
+	"SiteName": "Ngáo Coin",
+	"Title":    "Đồng hành cùng coin thủ Việt",
+	"Domain":   "ngaocoin.com",
+	"Slogan":   "Ngáo không phải là tội, Ngáo là một loại bệnh",
 }
 
 func loadPostData() []*Post {
@@ -81,10 +82,10 @@ func loadPostData() []*Post {
 
 func genDetailpage(post *Post, others []PostMetadata) {
 	detailMetadata := siteMetadata
-	detailMetadata.Title = post.Title
+	detailMetadata["Title"] = post.Metadata.Title
 
 	data := &DetailData{
-		SinglePost:   post,
+		SinglePost:   *post,
 		Others:       others,
 		SiteMetadata: detailMetadata,
 	}
