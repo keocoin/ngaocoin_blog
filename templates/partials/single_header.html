@@ -1,0 +1,16 @@
+{{define "single_healder" -}}
+<header class="bg-white shadow">
+  <div
+    class="wrap mx-auto max-w-screen-lg px-3 flex items-center justify-between"
+  >
+    <div class="logo text-lg text-semibold py-3">
+      <a href="https://{{.SiteMetadata.Domain}}">{{.SiteMetadata.Title}}</a>
+    </div>
+    <div class="menu-right flex items-center space-x-2">
+      <div class="icon h-8 w-8 bg-gray-100 rounded"></div>
+      <div class="icon h-8 w-8 bg-gray-100 rounded"></div>
+      <div class="icon h-8 w-8 bg-gray-100 rounded"></div>
+    </div>
+  </div>
+</header>
+{{end}}
