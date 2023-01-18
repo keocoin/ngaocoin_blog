@@ -40,7 +40,7 @@ type Post struct {
 	Html     template.HTML
 }
 
-type PostData struct {
+type DetailData struct {
 	SinglePost   Post
 	Others       []PostMetadata
 	SiteMetadata map[string]string
@@ -80,11 +80,15 @@ func loadPostData() []*Post {
 }
 
 func genDetailpage(post *Post, others []PostMetadata) {
-	data := &PostData{
-		SinglePost:   *post,
+	detailMetadata := siteMetadata
+	detailMetadata.Title = post.Title
+
+	data := &DetailData{
+		SinglePost:   post,
 		Others:       others,
-		SiteMetadata: siteMetadata,
+		SiteMetadata: detailMetadata,
 	}
+
 	outputPath := filepath.Join(OutputDir, post.Metadata.Slug)
 	genHTMLFile("single_post", data, outputPath)
 }
