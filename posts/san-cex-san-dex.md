@@ -21,7 +21,7 @@ Các tổ chức sẽ thành lập các công ty, thuê nhân viên kỹ thuật
 
 - Dễ sử dụng. Nếu bạn đã quen với việc mua bán chứng khoán, hoặc mua bán hàng hóa trên mạng thì việc làm quen với sàn tập trung chắc chắn sẽ không gặp nhiều khó khăn.
 - Phí giao dịch thấp. Vì các sàn tập trung không gửi các giao dịch của bạn lên blockchain mà chỉ dùng các database nội bộ để lưu và hiển thị số dư, vậy so sánh về chi phí thì các sàn tập trung có ưu điểm khá rõ rệt. Thông thường khoảng dưới 0.2% khối lượng giao dịch, thậm chí còn miễn phí.
-- Hỗ trợ nhiều tính năng. Hiện tại hầu hết các sàn tập trung đều hỗ trợ các hình thức giao dịch mà đa số nhà đầu tư cẩn, (giao dịch spot, margin, future). Người dùng dễ dàng cài các lệnh limit, stop limit...
+- Hỗ trợ nhiều tính năng. Hiện tại hầu hết các sàn tập trung đều hỗ trợ các hình thức giao dịch mà đa số nhà đầu tư cần (giao dịch spot, margin, future). Người dùng dễ dàng cài các lệnh limit, stop limit...
 - Tính thanh khoản tương đối cao. Vì đơn giản, dễ tiếp cận, sử dụng và nhiều tính năng, nên có nhiều người dùng sàn phi tập trung để mua bán. Đặc điểm này làm cho tính thanh khoản của sàn CEX là khá cao, trượt giá ít bị tác động hơn so với sàn DEX.
 
 ### Điểm yếu của sàn tập trung

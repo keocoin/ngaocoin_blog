@@ -56,6 +56,10 @@ var siteMetadata = map[string]string{
 	"Title":    "Đồng hành cùng coin thủ Việt",
 	"Domain":   "ngaocoin.com",
 	"Slogan":   "Ngáo không phải là tội, Ngáo là một loại bệnh",
+	"Description":   "chia sẻ thông tin kiến thức, research về blockchain, cryptocurrency",
+	"Type" : "website",
+	"Image" : "https://i.ibb.co/VLMNBBx/FVGsa-Y-X0-AEewjw.jpg",
+	"URL" : "https://ngaocoin.com"
 }
 
 func loadPostData() []*Post {
@@ -83,6 +87,11 @@ func loadPostData() []*Post {
 func genDetailpage(post *Post, others []PostMetadata) {
 	detailMetadata := siteMetadata
 	detailMetadata["Title"] = post.Metadata.Title
+	detailMetadata["Type"] = "article"
+	detailMetadata["URL"] = fmt.Sprintf("%s/%s.html", "https://ngaocoin.com", post.Metadata.Slug)
+	if(detailMetadata.Thumb != ""){
+		detailMetadata["Image"] = detailMetadata.Thumb
+	}
 
 	data := &DetailData{
 		SinglePost:   *post,
