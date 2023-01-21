@@ -89,9 +89,9 @@ func genDetailpage(post *Post, others []PostMetadata) {
 	detailMetadata := siteMetadata
 	detailMetadata["Title"] = post.Metadata.Title
 	detailMetadata["Type"] = "article"
-	detailMetadata["URL"] = fmt.Sprintf("%s/%s.html", "https://ngaocoin.com", post.Metadata.Slug)
+	detailMetadata["URL"] = fmt.Sprintf("%s/%s", "https://ngaocoin.com", post.Metadata.Slug)
 	if(post.Metadata.Thumb != ""){
-		detailMetadata["Image"] = detailMetadata["Thumb"]
+		detailMetadata["Image"] = post.Metadata.Thumb
 	}
 
 	data := &DetailData{
