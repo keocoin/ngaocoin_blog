@@ -59,7 +59,7 @@ var siteMetadata = map[string]string{
 	"Description":   "chia sẻ thông tin kiến thức, research về blockchain, cryptocurrency",
 	"Type" : "website",
 	"Image" : "https://i.ibb.co/VLMNBBx/FVGsa-Y-X0-AEewjw.jpg",
-	"URL" : "https://ngaocoin.com"
+	"URL" : "https://ngaocoin.com",
 }
 
 func loadPostData() []*Post {
