@@ -5,6 +5,7 @@ import (
 	"log"
 	"path/filepath"
 	"sort"
+	"fmt"
 
 	"github.com/yuin/goldmark"
 	meta "github.com/yuin/goldmark-meta"
@@ -89,8 +90,8 @@ func genDetailpage(post *Post, others []PostMetadata) {
 	detailMetadata["Title"] = post.Metadata.Title
 	detailMetadata["Type"] = "article"
 	detailMetadata["URL"] = fmt.Sprintf("%s/%s.html", "https://ngaocoin.com", post.Metadata.Slug)
-	if(detailMetadata.Thumb != ""){
-		detailMetadata["Image"] = detailMetadata.Thumb
+	if(post.Metadata["Thumb"] != ""){
+		detailMetadata["Image"] = detailMetadata["Thumb"]
 	}
 
 	data := &DetailData{
