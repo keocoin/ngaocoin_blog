@@ -1,5 +1,5 @@
 ---
-Title: "Staking là gì? Lúc nào thì nên stake coin?"
+Title: "[Nháp] Staking là gì? Lúc nào thì nên stake coin?"
 Category: Crypto Cơ Bản
 Slug: crypto-2023
 Thumb: https://i.ibb.co/xs45jQR/staking.png
