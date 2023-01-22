@@ -4,26 +4,22 @@
   {{template "meta_header" .}}
   <body>
     {{template "single_healder" .}}
-    <div class="banner">
-      <div class="wrap max-w-screen-md mx-auto pt-12 px-3 space-y-3">
-        <div class="text-5xl font-bold">{{.SinglePost.Metadata.Title}}</div>
-        <div class="text-gray-600">
-          by
-          <span class="font-medium text-black"
-            >{{.SinglePost.Metadata.Author}}</span
-          >, in
-          <span class="font-medium text-black"
-            >{{.SinglePost.Metadata.Category}}</span
-          >
+    <main class="wrap max-w-screen-md mx-auto">
+      <article class="py-8 px-3">
+        <div class="header">
+          <div class="text-5xl font-bold">{{.SinglePost.Metadata.Title}}</div>
+          <div class="text-gray-600">
+            by
+            <span class="font-medium text-black"
+              >{{.SinglePost.Metadata.Author}}</span
+            >, in
+            <span class="font-medium text-black"
+              >{{.SinglePost.Metadata.Category}}</span
+            >
+          </div>
         </div>
-      </div>
-    </div>
-    <main>
-      <div class="wrap max-w-screen-md mx-auto py-8 px-3">
-        <article class="content prose leading-8 text-lg">
-          {{.SinglePost.Html}}
-        </article>
-      </div>
+        <div class="content prose leading-8 text-lg">{{.SinglePost.Html}}</div>
+      </article>
       <div class="author border-t border-b py-12">
         <div class="w-fit mx-auto flex items-center space-x-3">
           <div class="avatar h-24 w-24 bg-gray-600 rounded-full"></div>

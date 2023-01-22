@@ -6,21 +6,10 @@
     {{template "header" .}}
     <main>
       <div class="wrap max-w-screen-lg mx-auto py-8 px-5">
-        <div class="content grid md:grid-cols-3 gap-x-3 gap-y-6">
+        <div class="content grid md:grid-cols-3 gap-x-4 gap-y-6">
           {{range $index, $item :=.Posts}} {{template "single_item_block"
           $item}} {{end}}
         </div>
-        <!-- <div class="paginator">
-          <div class="mx-auto w-fit flex items-center pt-5">
-            <div
-              class="btn-left h-10 w-10 rounded-full border bg-cyan-500"
-            ></div>
-            <div class="message px-3">Bạn đang xem trang 2 trong 5 trang</div>
-            <div
-              class="btn-left h-10 w-10 rounded-full border bg-cyan-500"
-            ></div>
-          </div>
-        </div> -->
       </div>
     </main>
     {{template "footer" -}}
