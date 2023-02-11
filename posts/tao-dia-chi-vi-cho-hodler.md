@@ -43,9 +43,10 @@ Trên thực tế, chúng ta thường không dùng cách này để tọa ra v�
 
 Một số trang web các bạn có thể dùng để thử:
 
-https://emn178.github.io/online-tools/sha256.html <= Tạo một khóa cá nhân từ chữ số hoặc ký tự.
-https://privatekeys.pw/calc <= Lấy địa chỉ ví từ khóa cá nhân.
-https://iancoleman.io/bip39/#english <= Khóa cá nhân thành cụm từ hạt giống.
+
+[https://emn178.github.io/online-tools/sha256.html ](https://emn178.github.io/online-tools/sha256.html ) Tạo một khóa cá nhân từ chữ số hoặc ký tự.
+[https://privatekeys.pw/calc](https://privatekeys.pw/calc) <= Lấy địa chỉ ví từ khóa cá nhân.
+[https://iancoleman.io/bip39/#english](https://iancoleman.io/bip39/#english) <= Khóa cá nhân thành cụm từ hạt giống.
 
 ## Tận dụng điện thoại cũ để tạo ra ví an toàn thế nào?
 
@@ -55,12 +56,13 @@ Làm thế nào để tạo ra khóa cá nhân an toàn?
 
 Có một cách đơn giản là lúc tạo ví, bạn tạo offline, ghi ra giấy sau đó xóa mọi thông tin trên máy liên quan đến ví đó đi. Cách này thì vẫn còn một rủi ro là máy tính bạn đã dính virus từ trước, khi bạn online trở lại, con virus này sẽ gửi các thông tin đã lấy đc về cho chủ nó.
 
-Vậy nên cách mình làm sẽ là dùng một iphone cũ:
-    - reset toàn bộ máy, sau đó cài ví trustwallet.
-    - Chuyển qua chế độ máy bay (offline)
-    - Tạo ví mới, và ghi cụm từ hạt giống ra giấy hoặc ví cứng bằng sắt (các bạn nên lưu làm 2 3 phiên bản khác nhau, ở nhiều nơi an toàn khác nhau).
-    - Dùng một điện thoại khác chụp lại địa chỉ ví (chỉ chụp lại địa chỉ ví chứ không phải là cụm từ hạt giống)
-    - Reset máy một lần nữa
+### Tạo ví an toàn từ smartphone cũ
+
+- reset toàn bộ máy, sau đó cài ví trustwallet.
+- Chuyển qua chế độ máy bay (offline)
+- Tạo ví mới, và ghi cụm từ hạt giống ra giấy hoặc ví cứng bằng sắt (các bạn nên lưu làm 2 3 phiên bản khác nhau, ở nhiều nơi an toàn khác nhau).
+- Dùng một điện thoại khác chụp lại địa chỉ ví (chỉ chụp lại địa chỉ ví chứ không phải là cụm từ hạt giống)
+- Reset máy một lần nữa
 
 Bằng cách này, bạn có thể yên tâm là cụm từ hạt giống của bạn hoàn toàn offline. Cách này phù hợp cho mục đích hodl coin lâu dài, khoảng 1 2 năm trở lên.
 
