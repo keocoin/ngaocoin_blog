@@ -25,14 +25,16 @@ Từ khi có internet, thì meme nó đã là một phần không thể tách r�
 
 ## Câu chuyện đơn giản.
 
-Câu chuyện của các memecoin rất đơn giản, thường được bắt đầu từ các con vật hoặc các hình ảnh đã có sẵn (shibainu từ giống chó Siba, PEPE bắt nguồn từ hình ảnh chú ếch xanh..)
+Câu chuyện của các memecoin rất đơn giản, thường được bắt đầu từ các con vật hoặc các hình ảnh đã có sẵn (shibainu từ giống chó Shiba, PEPE bắt nguồn từ hình ảnh chú ếch xanh..)
 
-Nhờ câu chuyện đơn giản, nên đối với người chơi mới, sẽ có ít thứ để tìm hiểu về công dụng, dự án hơn.
+Nhờ câu chuyện đơn giản, nên đối với người chơi mới sẽ có ít thứ để tìm hiểu về công dụng, thông tin dự án hơn.
 Vì sự đơn giản nên dễ lan truyền, chủ yếu đánh vào lòng tham vào sớm ra đúng lúc của loài người.
 
 ## Cộng đồng lớn, thanh khoản tốt
 
 Nếu theo dõi các page lớn liên quan đến coin thì chắc bạn nhận ra một điều, các memecoin là các dự án có lượng theo dõi nhiều nhất, được nhắc đến nhiều nhất trên các mạng xã hội.
+
+Đồng thời Memecoin cũng mang hơi lý tưởng hướng phi tập trung, ẩn danh, dành cho cộng đồng, cộng đồng first, khởi nguồn của bitcoin.
 
 Khi thời điểm đến, chính sự fomo của một lượng lớn người theo dõi mà giá của những memecoin thường được đẩy lên rất cao so với các thể loại coin khác.
 
