@@ -13,7 +13,7 @@ Trong bài viết này tôi sẽ chia sẻ một số suy nghĩ của tôi về 
 
 # Memecoin là gì
 
-Memecon là từ dùng chung để chỉ các đồng coin tạo ra với mục đích vui vẻ, không có nhiều công dụng cụ thể. Đơn giản một người nào đó tạo coin ra, và sau đó bán hoặc airdrop cho cộng đồng với giá rất rất rẻ. Thường là dựa trên các meme hoặc các linh vật đã có từ trước để tận dụng hiệu ứng cộng đồng.
+Memecon là từ dùng chung để chỉ các đồng coin tạo ra với mục đích vui vẻ, không có nhiều công dụng cụ thể. Đơn giản một người nào đó tạo coin ra, và sau đó bán hoặc airdrop cho cộng đồng với giá rất rất rẻ. Memecoin thường dựa trên các meme hoặc các linh vật đã có từ trước để tận dụng hiệu ứng cộng đồng.
 
 # Vì sao nên mua memecoin?
 
@@ -54,11 +54,12 @@ Có một số lý do như trên, khiến cho meme nên trở thành một phầ
 
 Nếu có 1 Jack để mua meme coin thì mình sẽ mua 2 cho PEPE, 2 cho DOGE và 1 cho SHIB.
 
-PEPE là meme có từ lâu, vốn hóa hiện tại chỉ khoảng 300 400 triệu, so với các meme top đầu thì chỉ bằng 1/10 vốn hóa. Cộng đồng PEPE cũng rất động do đây là meme có từ rất lâu rồi (trước cả khi có ETH)
+PEPE là meme có từ lâu, vốn hóa hiện tại chỉ khoảng 300 400 triệu, so với các memecoin top đầu thì chỉ bằng 1/10 vốn hóa.
+Cộng đồng PEPE cũng rất đông do là meme có từ rất lâu rồi (trước cả khi có ETH)
 
-Sau vài chu kỳ thì chỉ có DOGE là có thể theo được BTC. Meme này từ 2013, được nhiều người nổi tiếng từng shill, Nếu nói về meme an toàn thì DOGE là không có đối thủ. DOGE cũng là khoản bảo hiểm cho memebag của mình.
+Sau vài chu kỳ thì chỉ có DOGE là có thể theo được BTC. DOGE được tạo từ 2013, được nhiều người nổi tiếng từng shill. Nếu nói về memecoin an toàn thì DOGE không có đối thủ. DOGE cũng là khoản bảo hiểm cho memebag của mình.
 
-SHIBAINU nổi lên từ mùa 2021, có thể SHIB sẽ không quay trở lại vào mua 2025, vậy nên mình chỉ chọn 1/Jack memebag của mình vào Shib.
+SHIBAINU nổi lên từ mùa 2021, màn ra mắt Layer2 của Shiba không có nhiều ấn tượng. Có thể SHIB sẽ không quay trở lại vào mua 2025, vậy nên mình chỉ chọn 1/Jack memebag của mình vào Shib.
 
 # Tổng kết
 
