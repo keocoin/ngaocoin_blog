@@ -15,13 +15,13 @@ Trong bài viết này tôi sẽ chia sẻ một số suy nghĩ của tôi về 
 
 Memecon là từ dùng chung để chỉ các đồng coin tạo ra với mục đích vui vẻ, không có nhiều công dụng cụ thể. Đơn giản một người nào đó tạo coin ra, và sau đó bán hoặc airdrop cho cộng đồng với giá rất rất rẻ. Thường là dựa trên các meme hoặc các linh vật đã có từ trước để tận dụng hiệu ứng cộng đồng.
 
-## Văn hóa meme
-
-Từ khi có internet, thì meme nó đã là một phần không thể tách rời của mạng internet.
-
 # Vì sao nên mua memecoin?
 
 Trước khi đọc lý do tôi mua các memecoin thì anh em nên hiểu, tôi mua memecoin với số tiền mà tôi chấp nhận rủi ro, và tôi chấp nhận nếu các coin tôi mua sẽ về con số không.
+
+## Văn hóa meme
+
+Từ khi có internet, thì meme nó đã là một phần không thể tách rời của mạng internet.
 
 ## Câu chuyện đơn giản.
 
