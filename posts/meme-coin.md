@@ -7,64 +7,58 @@ Author: Tào Mạnh Đức
 PublishDate: "2023-09-08"
 ---
 
-Anh em có thấy mùa 2021 memecoin là một trong những thể loại coin tăng mạnh nhất, đưa nhiều ông xx tài khoản không? Rút kinh nghiệm từ mua 2021, tôi quyết định mua một số lượng memecoin cho mùa năm 2025.
+Anh em có thấy sự bùng nổ của Memecoin vào năm 2021, thị trường này đã chứng kiến sự gia tăng đáng kể về giá trị và sự chấp nhận từ cộng đồng.
+Xem xét những xu hướng này, tôi đã quyết định đưa memecoin vào danh mục các đồng coin sẽ mua cho năm 2025. Dưới đây, tôi sẽ chia sẻ một số quan điểm về việc đầu tư vào memecoin và đưa ra danh sách 3 đồng tiền mà tôi đặc biệt quan tâm
 
-Trong bài viết này tôi sẽ chia sẻ một số suy nghĩ của tôi về việc mua memecoin và danh sách 3 đồng coin tôi mua cho mùa 2025.
+# Khái Niệm về Memecoin
 
-# Memecoin là gì
+Memecoin là thuật ngữ được sử dụng để mô tả những đồng tiền mã hóa được tạo ra và bán hoặc airdrop cho cộng đồng với giá rất rất rẻ. Mục tiêu chủ yếu là giải trí, thường không mang lại nhiều giá trị ứng dụng thực tế. Tên của các memecoin thường lấy cảm hứng từ các meme hoặc các linh vật phổ biến (shibainu từ giống chó Shiba, PEPE bắt nguồn từ hình ảnh chú ếch xanh..), nhằm tận dụng sức mạnh của sự tương tác cộng đồng.
 
-Memecon là từ dùng chung để chỉ các đồng coin tạo ra với mục đích vui vẻ, không có nhiều công dụng cụ thể. Đơn giản một người nào đó tạo coin ra, và sau đó bán hoặc airdrop cho cộng đồng với giá rất rất rẻ. Memecoin thường dựa trên các meme hoặc các linh vật đã có từ trước để tận dụng hiệu ứng cộng đồng.
-
-# Vì sao nên mua memecoin?
+# Lý do Để Đầu Tư vào Memecoin
 
 Trước khi đọc lý do tôi mua các memecoin thì anh em nên hiểu, tôi mua memecoin với số tiền mà tôi chấp nhận rủi ro, và tôi chấp nhận nếu các coin tôi mua sẽ về con số không.
 
-## Văn hóa meme
+## Văn Hóa Meme và Tầm Ảnh Hưởng
 
-Từ khi có internet, thì meme nó đã là một phần không thể tách rời của mạng internet.
+Văn hóa meme, từ khi có internet, đã trở thành một phần không thể thiếu trong cuộc sống trực tuyến của chúng ta. Sự đơn giản và vui vẻ khiến các meme thường lan truyền nhanh và sâu vào cộng đồng mạng tạo nên một văn hóa của internet.
 
-## Câu chuyện đơn giản.
+## Thị Trường và Câu Chuyện Thương Hiệu
 
-Câu chuyện của các memecoin rất đơn giản, thường được bắt đầu từ các con vật hoặc các hình ảnh đã có sẵn (shibainu từ giống chó Shiba, PEPE bắt nguồn từ hình ảnh chú ếch xanh..)
+Các memecoin thường có câu chuyện thương hiệu đơn giản. Nhờ sự đơn giản và dễ phổ biến, dễ lan truyền, nên đối với người chơi mới sẽ có ít thứ để tìm hiểu về công dụng, thông tin dự án hơn. Chủ yếu đánh vào lòng tham của loài người.
 
-Nhờ câu chuyện đơn giản, nên đối với người chơi mới sẽ có ít thứ để tìm hiểu về công dụng, thông tin dự án hơn.
-Vì sự đơn giản nên dễ lan truyền, chủ yếu đánh vào lòng tham vào sớm ra đúng lúc của loài người.
-
-## Cộng đồng lớn, thanh khoản tốt
-
-Nếu theo dõi các page lớn liên quan đến coin thì chắc bạn nhận ra một điều, các memecoin là các dự án có lượng theo dõi nhiều nhất, được nhắc đến nhiều nhất trên các mạng xã hội.
-
-Đồng thời Memecoin cũng mang hơi lý tưởng hướng phi tập trung, ẩn danh, dành cho cộng đồng, cộng đồng first, khởi nguồn của bitcoin.
-
-Khi thời điểm đến, chính sự fomo của một lượng lớn người theo dõi mà giá của những memecoin thường được đẩy lên rất cao so với các thể loại coin khác.
-
-Chính vì có lượng người tham gia, mua đông đảo nên giá của các memecoin top thường bị chia không nhiều như những dự án shitcoin hoặc các dự án gamefi như mùa 2021.
+Khi được nhắc đến rộng rãi và liên tục, chính sự fomo của một lượng lớn người theo dõi mà giá của những memecoin thường được đẩy lên rất cao, cũng như khối lượng giao dịch vượt trội hơn các dòng coin khác.
 
 ## Dễ tiếp cận trên các sàn
 
-Vì lượng người giao dịch nhiều, nên thanh khoản cao, dẫn đến các sàn lớn đều list các đồng meme top. Mục đích của họ cũng chỉ là phí đến từ volume giao dịch.
+Các sàn giao dịch lớn thường chào đón những đồng memecoin hàng đầu, vì chúng mang lại lợi ích từ lượng giao dịch lớn, tăng cường thanh khoản, và thu hút người dùng mới.
 
-Các sàn cũng không sợ list token của đối thủ (vì đâu là coin cộng đồng), đồng thời không muốn người dùng của mình chuyển qua những sàn đối thủ vì sàn mình không list memecoin.
-
-Nhờ dễ dàng mua bán, nên thanh khoản cao, và giá dễ dàng được đẩy bởi sự fomo.
+Cũng nhờ dễ dàng mua bán, nên thanh khoản cao, và giá dễ dàng được đẩy bởi sự fomo (đã nói ở trên).
 
 ## Tóm lại
 
 Có một số lý do như trên, khiến cho meme nên trở thành một phần trong danh mục crypto của bất cứ một ai.
 
-# 3 đồng coin mà mình mua, cũng như tỷ lệ phân bổ.
+# 3 đồng coin mà tôi mua, và tỷ lệ phân bổ vốn.
 
-Nếu có 1 Jack để mua meme coin thì mình sẽ mua 2 cho PEPE, 2 cho DOGE và 1 cho SHIB.
+Trước khi đi vào nội dung cụ thể thì đây sẽ là cảnh báo cuối cùng. Memebag chỉ là một phần trong danh mục đầu tư của tôi. Tôi mua memebag với tâm lý đã xác định là có thể mất trắng. Hãy cân nhắc vì đầu tư memecoin có tỷ lệ rủi ro cao.
 
-PEPE là meme có từ lâu, vốn hóa hiện tại chỉ khoảng 300 400 triệu, so với các memecoin top đầu thì chỉ bằng 1/10 vốn hóa.
-Cộng đồng PEPE cũng rất đông do là meme có từ rất lâu rồi (trước cả khi có ETH)
+## PEPE
+Tổng quan: Meme thì đã có từ lâu nhưng coin mới được tạo trong năm 2023, vốn hóa khoảng 300-400 triệu USD, so với các memecoin top đầu thì chỉ bằng 1/10 vốn hóa.
+Tiềm năng: Cộng đồng đông đảo với lịch sử lâu đời.
+Chiến lược: Đầu tư 2/5 tổng vốn.
 
-Sau vài chu kỳ thì chỉ có DOGE là có thể theo được BTC. DOGE được tạo từ 2013, được nhiều người nổi tiếng từng shill. Nếu nói về memecoin an toàn thì DOGE không có đối thủ. DOGE cũng là khoản bảo hiểm cho memebag của mình.
+## DOGE
+Tổng quan: Được tạo ra từ năm 2013 và thường theo sát BTC.
+Tiềm năng: Có sự ủng hộ từ nhiều người nổi tiếng, được coi là một lựa chọn an toàn trong lĩnh vực memecoin.
+Chiến lược: Đầu tư 2/5 tổng vốn.
 
-SHIBAINU nổi lên từ mùa 2021, màn ra mắt Layer2 của Shiba không có nhiều ấn tượng. Có thể SHIB sẽ không quay trở lại vào mua 2025, vậy nên mình chỉ chọn 1/Jack memebag của mình vào Shib.
+## SHIB
+Tổng quan: Nổi lên từ năm 2021, màn ra mắt Layer2 không quá ấn tượng, ưu điểm là có cơ chế đốt đồng (trích ra từ phí layer2).
+Tiềm năng: Có khả năng sẽ không trở lại mạnh mẽ vào năm 2025.
+Chiến lược: Đầu tư 1/5 tổng vốn.
 
 # Tổng kết
 
-Ví memebag này của mình kỳ vọng sẽ x khoảng 10 đến 20 lần trong mùa tới, đặt nhiều kỳ vọng vào PEPE. Nếu PEPE và Shib có flop thì DOGE sẽ giúp mình bảo toàn vốn :(
+Tôi đặt niềm tin vào memecoin, với kỳ vọng sẽ đem lại lợi nhuận gấp 10 đến 20 lần trong mùa tới, nhất là đối với PEPE. DOGE sẽ phục vụ như một bảo hiểm, giúp bảo toàn vốn nếu PEPE và SHIB không đạt kỳ vọng.
 
-Cám ơn anh em.
+Cảm ơn các bạn đã đọc và chúc mọi người đầu tư thành công, nhớ quay lại để đón nghe podcast tiếp theo vào tuần tới!
