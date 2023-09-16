@@ -14,9 +14,9 @@ Dưới đây, tôi sẽ chia sẻ một số quan điểm về việc đầu t�
 
 # Khái Niệm về Memecoin
 
-Memecoin là thuật ngữ được sử dụng để mô tả những đồng coin được tạo ra và bán hoặc airdrop cho cộng đồng với giá rất rất rẻ.
+Memecoin là thuật ngữ để chỉ đồng coin tạo với mục đích giải trí, vui vẻ. Các đồng coin này được bán hoặc airdrop cho cộng đồng với giá rất rất rẻ.
 
-Mục tiêu chủ yếu là giải trí, thường không mang lại nhiều giá trị về mặt ứng dụng thực tế. Tên của các memecoin thường lấy cảm hứng từ các meme hoặc các linh vật phổ biến (shibainu từ giống chó Shiba, PEPE bắt nguồn từ hình ảnh chú ếch xanh..), nhằm tận dụng sức mạnh tương tác của cộng đồng.
+Tên của các memecoin thường lấy cảm hứng từ các meme hoặc các linh vật phổ biến (shibainu từ giống chó Shiba, PEPE là hình ảnh chú ếch xanh..), nhằm tận dụng sức mạnh tương tác của cộng đồng.
 
 # Lý do Để Đầu Tư vào Memecoin
 
@@ -48,7 +48,7 @@ Trước khi đi vào nội dung cụ thể thì đây sẽ là cảnh báo cu�
 
 ## PEPE
 Tổng quan: Meme thì đã có từ lâu nhưng coin mới được tạo trong năm 2023, vốn hóa khoảng 300-400 triệu USD, so với các memecoin top đầu thì chỉ bằng 1/10 vốn hóa.
-Tiềm năng: Cộng đồng đông đảo với lịch sử lâu đời. Giá sẽ x10 đến 20 lần nếu đạt được vốn hóa như DOGE hoặc SHIB hiện tại. Nên nhớ hiện tại đang là mua Bear.
+Tiềm năng: Cộng đồng đông đảo với lịch sử lâu đời. Giá sẽ x10 đến 20 lần nếu đạt được vốn hóa như DOGE hoặc SHIB hiện tại. Nên nhớ hiện tại đang là mua Bear. Tuy nhiên PEPE đang chịu nhiều FUD về lục đục nội bộ của team tạo ra nó.
 Chiến lược: Đầu tư 2/5 tổng vốn.
 
 ## DOGE
